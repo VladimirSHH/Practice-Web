@@ -1,0 +1,12 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+h1 {
+  color: blue;
+  font-style: inherit;
+  font-size: large;
+}
+form {
+  margin: 10px;
+}
